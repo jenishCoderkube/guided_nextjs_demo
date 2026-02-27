@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "research-development",
+    "label": "R&D",
+    "fullLabel": "Research & Development",
+    "description": "Innovation-driven roles in medical device design, biomedical engineering, and software development.",
+    "icon": "microscope",
+    "jobCount": 3
+  },
+  {
+    "slug": "regulatory",
+    "label": "Regulatory",
+    "fullLabel": "Regulatory Affairs",
+    "description": "Specialist roles ensuring compliance with EU MDR, FDA regulations, and international standards.",
+    "icon": "shield",
+    "jobCount": 1
+  },
+  {
+    "slug": "quality-systems",
+    "label": "Quality Systems",
+    "fullLabel": "Quality Assurance & Systems",
+    "description": "Roles focused on ISO 13485 compliance, CAPA management, and quality management systems.",
+    "icon": "check-circle",
+    "jobCount": 1
+  },
+  {
+    "slug": "sales-marketing",
+    "label": "Sales & Marketing",
+    "fullLabel": "Sales & Marketing",
+    "description": "Commercial roles driving market growth, client relationships, and brand leadership in MedTech.",
+    "icon": "trending-up",
+    "jobCount": 1
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "slug": "qa-director",
+    "title": "QA Director",
+    "company": "MedTech Solutions",
+    "location": "Berlin, Germany",
+    "type": "Full-time",
+    "category": "quality-systems",
+    "categoryLabel": "Quality Systems",
+    "salary": "€90,000 – €120,000",
+    "posted": "2026-02-20",
+    "deadline": "2026-04-20",
+    "experience": "10+ years",
+    "description": "We are seeking an experienced QA Director to lead our quality assurance team and ensure compliance with international medical device regulations including ISO 13485, FDA 21 CFR Part 820, and EU MDR.",
+    "responsibilities": [
+      "Lead and manage the QA team across multiple product lines",
+      "Develop and implement quality management systems (QMS)",
+      "Ensure compliance with ISO 13485, FDA, and EU MDR requirements",
+      "Oversee internal and external audits",
+      "Drive continuous improvement initiatives across the organization",
+      "Collaborate with R&D, manufacturing, and regulatory teams",
+      "Report quality metrics to senior leadership"
+    ],
+    "requirements": [
+      "10+ years of experience in quality assurance within the medical device industry",
+      "Deep knowledge of ISO 13485, FDA 21 CFR Part 820, and EU MDR",
+      "Proven leadership experience managing QA teams",
+      "Experience with CAPA, risk management, and design controls",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication skills in English; German is a plus"
+    ],
+    "benefits": [
+      "Competitive salary with performance bonuses",
+      "Company car or mobility budget",
+      "30 days paid vacation",
+      "Flexible working arrangements",
+      "Professional development opportunities",
+      "Company pension scheme"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "regulatory-affairs-manager",
+    "title": "Regulatory Affairs Manager",
+    "company": "GS MedTech",
+    "location": "Munich, Germany",
+    "type": "Full-time",
+    "category": "regulatory",
+    "categoryLabel": "Regulatory",
+    "salary": "€75,000 – €95,000",
+    "posted": "2026-02-18",
+    "deadline": "2026-04-15",
+    "experience": "7+ years",
+    "description": "Join our regulatory team to manage the submission and approval process for medical devices across European and international markets. You will be the key liaison between our product development teams and regulatory authorities.",
+    "responsibilities": [
+      "Prepare and submit technical documentation for CE marking under EU MDR",
+      "Manage 510(k) and PMA submissions to the FDA",
+      "Monitor changes in regulatory requirements globally",
+      "Support post-market surveillance activities",
+      "Coordinate with notified bodies and competent authorities",
+      "Train internal teams on regulatory requirements"
+    ],
+    "requirements": [
+      "7+ years in regulatory affairs within MedTech or pharma",
+      "In-depth knowledge of EU MDR, IVDR, and FDA regulations",
+      "Experience with technical file compilation and submissions",
+      "RAC certification preferred",
+      "Strong project management skills",
+      "Fluent in English; additional European languages beneficial"
+    ],
+    "benefits": [
+      "Attractive compensation package",
+      "Remote work options (up to 3 days/week)",
+      "Annual training and conference budget",
+      "Health and wellness programs",
+      "Modern office in Munich city center",
+      "International team environment"
+    ],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "senior-biomedical-engineer",
+    "title": "Senior Biomedical Engineer",
+    "company": "InnoMed Devices",
+    "location": "Zurich, Switzerland",
+    "type": "Full-time",
+    "category": "research-development",
+    "categoryLabel": "R&D",
+    "salary": "CHF 110,000 – CHF 140,000",
+    "posted": "2026-02-15",
+    "deadline": "2026-04-10",
+    "experience": "5+ years",
+    "description": "We are looking for a Senior Biomedical Engineer to design and develop next-generation implantable medical devices. Join a team pushing the boundaries of medical technology innovation.",
+    "responsibilities": [
+      "Design and develop implantable medical devices",
+      "Conduct feasibility studies and prototype testing",
+      "Perform design verification and validation activities",
+      "Collaborate with cross-functional teams including clinical and regulatory",
+      "Create and maintain design history files (DHF)",
+      "Apply risk management processes per ISO 14971"
+    ],
+    "requirements": [
+      "MSc or PhD in Biomedical Engineering or related field",
+      "5+ years of medical device development experience",
+      "Proficiency in CAD software (SolidWorks, Creo)",
+      "Experience with biocompatibility testing and sterilization validation",
+      "Knowledge of ISO 13485 and design control processes",
+      "Strong analytical and problem-solving capabilities"
+    ],
+    "benefits": [
+      "Highly competitive Swiss salary",
+      "Relocation assistance provided",
+      "25 days vacation plus Swiss public holidays",
+      "Cutting-edge laboratory and prototyping facilities",
+      "Equity participation options",
+      "Continuous learning and PhD sponsorship programs"
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "slug": "clinical-data-analyst",
+    "title": "Clinical Data Analyst",
+    "company": "GS MedTech",
+    "location": "Vienna, Austria",
+    "type": "Full-time",
+    "category": "research-development",
+    "categoryLabel": "R&D",
+    "salary": "€55,000 – €70,000",
+    "posted": "2026-02-12",
+    "deadline": "2026-04-05",
+    "experience": "3+ years",
+    "description": "Support our clinical team by analyzing data from medical device trials and post-market studies. You will play a critical role in generating evidence to support regulatory submissions and product improvements.",
+    "responsibilities": [
+      "Analyze clinical trial data and generate statistical reports",
+      "Support clinical evaluation report (CER) preparation",
+      "Manage clinical databases and ensure data integrity",
+      "Collaborate with clinical investigators and study monitors",
+      "Develop data visualization dashboards",
+      "Ensure compliance with GCP and MDR clinical requirements"
+    ],
+    "requirements": [
+      "3+ years of clinical data analysis experience",
+      "Proficiency in statistical software (R, SAS, or Python)",
+      "Understanding of clinical trial design and methodology",
+      "Knowledge of EU MDR clinical evidence requirements",
+      "Experience with EDC systems (Medidata, REDCap)",
+      "Strong attention to detail and documentation skills"
+    ],
+    "benefits": [
+      "Competitive salary with annual reviews",
+      "Flexible hybrid work model",
+      "Professional development allowance",
+      "Health and dental insurance",
+      "Central Vienna office location",
+      "Collaborative and inclusive team culture"
+    ],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "medical-device-sales-manager",
+    "title": "Medical Device Sales Manager",
+    "company": "MedTech Solutions",
+    "location": "Frankfurt, Germany",
+    "type": "Full-time",
+    "category": "sales-marketing",
+    "categoryLabel": "Sales & Marketing",
+    "salary": "€70,000 – €90,000 + Commission",
+    "posted": "2026-02-10",
+    "deadline": "2026-03-30",
+    "experience": "5+ years",
+    "description": "Drive revenue growth by managing key accounts and expanding our presence in the DACH medical device market. This role combines strategic sales leadership with hands-on client engagement.",
+    "responsibilities": [
+      "Manage and grow a portfolio of hospital and clinic accounts",
+      "Develop and execute regional sales strategies",
+      "Conduct product demonstrations and presentations",
+      "Negotiate contracts and close high-value deals",
+      "Collaborate with marketing on campaign development",
+      "Provide market intelligence and competitive analysis",
+      "Attend medical conferences and trade shows"
+    ],
+    "requirements": [
+      "5+ years of B2B sales experience in MedTech or healthcare",
+      "Proven track record of meeting and exceeding sales targets",
+      "Strong understanding of hospital procurement processes",
+      "Excellent presentation and negotiation skills",
+      "Willingness to travel within the DACH region (40%)",
+      "Fluent in German and English"
+    ],
+    "benefits": [
+      "Base salary plus uncapped commission",
+      "Company car and expense account",
+      "President's Club annual incentive trip",
+      "Comprehensive onboarding and sales training",
+      "Career progression into leadership roles",
+      "Full benefits package including pension"
+    ],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "software-engineer-medical-devices",
+    "title": "Software Engineer – Medical Devices",
+    "company": "InnoMed Devices",
+    "location": "Amsterdam, Netherlands",
+    "type": "Full-time",
+    "category": "research-development",
+    "categoryLabel": "R&D",
+    "salary": "€65,000 – €85,000",
+    "posted": "2026-02-08",
+    "deadline": "2026-03-25",
+    "experience": "4+ years",
+    "description": "Develop embedded software for Class II and Class III medical devices. Work in an agile environment following IEC 62304 lifecycle processes and contribute to life-saving technology.",
+    "responsibilities": [
+      "Develop and maintain embedded software for medical devices",
+      "Follow IEC 62304 software development lifecycle",
+      "Write unit tests and perform code reviews",
+      "Collaborate with hardware and systems engineering teams",
+      "Participate in risk analysis and FMEA processes",
+      "Create and maintain software documentation"
+    ],
+    "requirements": [
+      "4+ years of embedded software development experience",
+      "Proficiency in C/C++ and Python",
+      "Knowledge of IEC 62304 and IEC 62443 standards",
+      "Experience with real-time operating systems (RTOS)",
+      "Familiarity with CI/CD pipelines and version control (Git)",
+      "Understanding of cybersecurity requirements for medical devices"
+    ],
+    "benefits": [
+      "Competitive Dutch salary with holiday allowance",
+      "Flexible work-from-home policy",
+      "NS Business Card for commuting",
+      "Budget for training and certifications",
+      "Modern Amsterdam office with bike parking",
+      "International, English-speaking team"
+    ],
+    "featured": false
+  }
+]

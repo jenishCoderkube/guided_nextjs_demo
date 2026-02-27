@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "slug": "future-of-medtech-recruitment-2026",
+    "title": "The Future of MedTech Recruitment in 2026",
+    "excerpt": "Discover the emerging trends reshaping how medical technology companies attract and retain top talent in an increasingly competitive landscape.",
+    "category": "Industry Insights",
+    "categorySlug": "industry-insights",
+    "author": "Dr. Sarah Mitchell",
+    "authorRole": "Head of MedTech Recruitment",
+    "date": "2026-02-25",
+    "readTime": "8 min read",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The medical technology sector is undergoing a profound transformation in 2026. As the industry continues to evolve with advancements in AI-driven diagnostics, robotic surgery, and personalized medicine, the demand for specialized talent has never been higher. Companies that fail to adapt their recruitment strategies risk falling behind in the race for innovation."
+      },
+      {
+        "type": "heading",
+        "text": "The Talent Gap in MedTech"
+      },
+      {
+        "type": "paragraph",
+        "text": "According to recent industry reports, the global MedTech sector faces a talent shortage of approximately 35% in key roles such as regulatory affairs, quality assurance, and biomedical engineering. This gap is particularly acute in the European market, where stringent EU MDR requirements have created unprecedented demand for regulatory expertise."
+      },
+      {
+        "type": "heading",
+        "text": "AI and Automation in Recruitment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Artificial intelligence is revolutionizing how MedTech companies identify and engage potential candidates. From AI-powered candidate matching algorithms to automated screening processes, technology is enabling recruiters to find the right talent faster and more efficiently. However, the human element remains crucial — especially when assessing candidates for highly specialized, regulation-sensitive roles."
+      },
+      {
+        "type": "heading",
+        "text": "Remote Work and Global Talent Pools"
+      },
+      {
+        "type": "paragraph",
+        "text": "The shift toward remote and hybrid work models has expanded the talent pool for MedTech companies beyond traditional geographic boundaries. Companies that embrace flexible working arrangements are seeing a 40% increase in qualified applicants, particularly for roles in clinical data analysis, software development, and regulatory documentation."
+      },
+      {
+        "type": "heading",
+        "text": "Looking Ahead"
+      },
+      {
+        "type": "paragraph",
+        "text": "As we move through 2026, the most successful MedTech companies will be those that combine cutting-edge recruitment technology with deep industry expertise. Building strong employer brands, offering competitive packages, and creating clear career progression paths will be essential to winning the war for talent in this dynamic sector."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "navigating-eu-mdr-compliance",
+    "title": "Navigating EU MDR Compliance: A Complete Guide",
+    "excerpt": "Everything you need to know about EU Medical Device Regulation compliance, from classification rules to post-market surveillance requirements.",
+    "category": "Regulatory",
+    "categorySlug": "regulatory",
+    "author": "Michael Weber",
+    "authorRole": "Senior Regulatory Consultant",
+    "date": "2026-02-20",
+    "readTime": "12 min read",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The EU Medical Device Regulation (MDR 2017/745) continues to reshape the European medical device landscape. With full implementation now in effect, manufacturers and regulatory professionals must navigate a complex web of requirements spanning from product classification to post-market surveillance."
+      },
+      {
+        "type": "heading",
+        "text": "Understanding Device Classification"
+      },
+      {
+        "type": "paragraph",
+        "text": "Under the MDR, medical devices are classified into four risk categories: Class I, Class IIa, Class IIb, and Class III. The classification rules have been expanded from 18 to 22, with several devices being up-classified. This has significant implications for manufacturers who may now need notified body involvement for products that previously were self-certified."
+      },
+      {
+        "type": "heading",
+        "text": "Technical Documentation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "text": "The MDR requires comprehensive technical documentation following the structure outlined in Annexes II and III. This includes a device description, design and manufacturing information, general safety and performance requirements (GSPR), benefit-risk analysis, product verification and validation, and clinical evaluation data."
+      },
+      {
+        "type": "heading",
+        "text": "Clinical Evidence and Evaluation"
+      },
+      {
+        "type": "paragraph",
+        "text": "One of the most significant changes under the MDR is the strengthened clinical evidence requirements. Manufacturers must conduct thorough clinical evaluations, and in many cases, clinical investigations are necessary. The Clinical Evaluation Report (CER) must be regularly updated, with annual updates required for higher-risk devices."
+      },
+      {
+        "type": "heading",
+        "text": "Post-Market Surveillance"
+      },
+      {
+        "type": "paragraph",
+        "text": "The MDR establishes a proactive post-market surveillance (PMS) system. Manufacturers must implement a PMS plan, create periodic safety update reports (PSUR) for higher-risk devices, and report serious incidents and field safety corrective actions through the EUDAMED database."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "top-skills-medtech-professionals-need",
+    "title": "Top 10 Skills MedTech Professionals Need in 2026",
+    "excerpt": "From data science to regulatory expertise, explore the most in-demand skills that MedTech employers are actively seeking this year.",
+    "category": "Career Advice",
+    "categorySlug": "career-advice",
+    "author": "Lisa Chen",
+    "authorRole": "Career Development Specialist",
+    "date": "2026-02-15",
+    "readTime": "6 min read",
+    "featured": true,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The medical technology industry demands a unique blend of technical expertise, regulatory knowledge, and soft skills. As the sector continues to evolve, certain competencies have emerged as particularly valuable for career advancement. Here are the top 10 skills that MedTech employers are prioritizing in 2026."
+      },
+      {
+        "type": "heading",
+        "text": "1. Regulatory Affairs Expertise"
+      },
+      {
+        "type": "paragraph",
+        "text": "With the full implementation of EU MDR and evolving FDA requirements, professionals who understand the global regulatory landscape are in extremely high demand. The ability to navigate complex regulatory pathways and manage submissions is considered the number one skill gap in the industry."
+      },
+      {
+        "type": "heading",
+        "text": "2. Quality Management Systems"
+      },
+      {
+        "type": "paragraph",
+        "text": "ISO 13485 expertise remains fundamental, but employers increasingly seek professionals who can go beyond compliance to drive quality excellence. Experience with digital QMS platforms and data-driven quality improvements sets candidates apart."
+      },
+      {
+        "type": "heading",
+        "text": "3. Data Science and AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "As MedTech devices become smarter, the demand for professionals who can develop and validate AI/ML algorithms for medical applications has skyrocketed. Understanding both the technical and regulatory aspects of AI in healthcare is a rare and valued combination."
+      },
+      {
+        "type": "heading",
+        "text": "4. Cybersecurity for Medical Devices"
+      },
+      {
+        "type": "paragraph",
+        "text": "Connected medical devices present significant cybersecurity challenges. Professionals with expertise in IEC 62443, threat modeling, and secure software development lifecycle (SSDLC) are increasingly essential as regulatory bodies mandate cybersecurity risk management."
+      },
+      {
+        "type": "heading",
+        "text": "Building Your MedTech Career"
+      },
+      {
+        "type": "paragraph",
+        "text": "The key to career success in MedTech is continuous learning and adaptability. Whether you are a seasoned professional or just entering the field, investing in these high-demand skills will position you for growth in one of the world's most impactful industries."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "building-effective-medtech-teams",
+    "title": "Building Effective MedTech Teams: Strategies for Success",
+    "excerpt": "Learn proven strategies for assembling high-performing teams in the medical device industry, from hiring to retention.",
+    "category": "Industry Insights",
+    "categorySlug": "industry-insights",
+    "author": "Dr. Sarah Mitchell",
+    "authorRole": "Head of MedTech Recruitment",
+    "date": "2026-02-10",
+    "readTime": "10 min read",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Building a high-performing team in the medical technology industry requires more than just filling positions — it demands a strategic approach to talent acquisition, development, and retention. In an industry where the stakes are literally life and death, having the right team can make the difference between a successful product launch and a costly failure."
+      },
+      {
+        "type": "heading",
+        "text": "Define Your Team DNA"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most successful MedTech teams share common characteristics: a deep commitment to patient safety, cross-functional collaboration skills, and the ability to work within regulated environments while maintaining innovation. Before hiring, define the values and competencies that will form the foundation of your team culture."
+      },
+      {
+        "type": "heading",
+        "text": "Cross-Functional Collaboration"
+      },
+      {
+        "type": "paragraph",
+        "text": "MedTech product development requires seamless collaboration between engineering, regulatory, quality, clinical, and commercial teams. Creating structures and processes that facilitate this cross-functional interaction is essential. Regular design reviews, shared project management tools, and co-located team spaces can significantly improve outcomes."
+      },
+      {
+        "type": "heading",
+        "text": "Retention in a Competitive Market"
+      },
+      {
+        "type": "paragraph",
+        "text": "With talent in high demand, retention is as important as recruitment. Companies that invest in professional development, offer clear career paths, and create a positive work environment see turnover rates 25% lower than industry averages. Consider implementing mentorship programs, supporting conference attendance, and providing opportunities for cross-functional rotation."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "digital-health-transformation-trends",
+    "title": "Digital Health Transformation: Key Trends to Watch",
+    "excerpt": "Explore how digital innovation is transforming the MedTech landscape, from connected devices to AI-powered diagnostics.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "author": "Alex Petrov",
+    "authorRole": "Digital Health Strategist",
+    "date": "2026-02-05",
+    "readTime": "9 min read",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The convergence of medical technology and digital innovation is creating unprecedented opportunities for improving patient outcomes. From wearable health monitors to AI-powered diagnostic systems, digital health is no longer a niche — it is the mainstream of modern healthcare delivery."
+      },
+      {
+        "type": "heading",
+        "text": "AI-Powered Diagnostics"
+      },
+      {
+        "type": "paragraph",
+        "text": "Artificial intelligence is making significant strides in medical diagnostics. AI algorithms can now detect certain cancers with accuracy matching or exceeding human radiologists. In 2026, we are seeing the first wave of AI diagnostic tools receiving regulatory approval across multiple jurisdictions, opening new markets and creating demand for specialized talent."
+      },
+      {
+        "type": "heading",
+        "text": "Connected Medical Devices"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Internet of Medical Things (IoMT) is expanding rapidly. Connected devices ranging from smart insulin pumps to remote patient monitoring systems are generating vast amounts of health data. This connectivity enables real-time patient monitoring, predictive maintenance, and data-driven clinical decisions."
+      },
+      {
+        "type": "heading",
+        "text": "The Future of Digital MedTech"
+      },
+      {
+        "type": "paragraph",
+        "text": "As digital health matures, we expect to see greater integration between devices, platforms, and healthcare systems. Interoperability standards, data privacy regulations, and cybersecurity requirements will shape the next phase of innovation. Companies that invest early in these capabilities will lead the transformation of healthcare delivery."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "interview-tips-medtech-roles",
+    "title": "Ace Your MedTech Interview: Expert Tips and Strategies",
+    "excerpt": "Prepare for your medical technology job interview with these expert tips covering technical questions, regulatory scenarios, and cultural fit.",
+    "category": "Career Advice",
+    "categorySlug": "career-advice",
+    "author": "Lisa Chen",
+    "authorRole": "Career Development Specialist",
+    "date": "2026-01-30",
+    "readTime": "7 min read",
+    "featured": false,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Landing a role in the medical technology industry requires demonstrating not only technical competence but also an understanding of the regulatory environment and a genuine commitment to improving patient outcomes. Here is how to prepare for and excel in your MedTech interview."
+      },
+      {
+        "type": "heading",
+        "text": "Research the Company and Its Products"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before any MedTech interview, thoroughly research the company's product portfolio, recent regulatory submissions, and market position. Understanding whether they focus on Class II or Class III devices, their regulatory status, and recent product launches shows genuine interest and industry awareness."
+      },
+      {
+        "type": "heading",
+        "text": "Prepare for Technical Scenarios"
+      },
+      {
+        "type": "paragraph",
+        "text": "MedTech interviews often include scenario-based questions. Be prepared to discuss how you would handle a CAPA investigation, manage a regulatory submission timeline, or approach a design review. Use the STAR method (Situation, Task, Action, Result) to structure your responses with concrete examples from your experience."
+      },
+      {
+        "type": "heading",
+        "text": "Demonstrate Regulatory Awareness"
+      },
+      {
+        "type": "paragraph",
+        "text": "Regardless of your specific role, showing awareness of the regulatory environment demonstrates professionalism and readiness. Familiarize yourself with relevant standards such as ISO 13485, IEC 62304, and the applicable regional regulations (EU MDR, FDA 21 CFR). Being able to discuss how regulations impact your work will set you apart from other candidates."
+      }
+    ]
+  }
+]
